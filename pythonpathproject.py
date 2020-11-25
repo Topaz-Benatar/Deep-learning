@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 21 14:10:31 2020
 
-@author: Topaz Ben Atar, Amit Caspi, Roni Peri, Maya Yosef and Ron Amado.
+@author: Topaz Ben Atar, Amit Caspi, Roni Peri, Maya Yosef ,Ron Amado.
 
 """
 
